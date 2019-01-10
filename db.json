@@ -60,7 +60,7 @@
             }
         ],
         "features": {
-            "donotdistrub": true,
+            "donotdisturb": true,
             "callforward": true,
             "callwaiting": false,
             "callerblockid": true
