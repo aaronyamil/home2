@@ -1,81 +1,78 @@
 {
-  "dashboard" : {
-    "voicemails": [
-        {
-          "number": "514.612.4813",
-          "duration": "3 sec"
+    "home2": {
+        "voicemails": [
+            {
+                "number": "514.612.4813",
+                "duration": "3 sec"
+            },
+            {
+                "number": "803.612.3361",
+                "duration": "5 sec"
+            },
+            {
+                "number": "514.612.4813",
+                "duration": "3 sec"
+            },
+            {
+                "number": "803.612.3361",
+                "duration": "10 sec"
+            },
+            {
+                "number": "514.612.4813",
+                "duration": "20 sec"
+            }
+        ],
+        "calls": [
+            {
+                "number": "(879) 764-2323",
+                "date": "30-OCT-2018",
+                "hour": "04:10:51 pm",
+                "duration": "00:12:76"
+            },
+            {
+                "number": "(879) 764-2323",
+                "date": "29-OCT-2018",
+                "hour": "04:10:51 pm",
+                "duration": "00:12:76"
+            },
+            {
+                "number": "(879) 764-2323",
+                "date": "16-MAY-2016",
+                "hour": "04:10:51 pm",
+                "duration": "00:12:76"
+            },
+            {
+                "number": "(879) 764-2323",
+                "date": "16-JUN-2016",
+                "hour": "04:10:51 pm",
+                "duration": "00:12:76"
+            },
+            {
+                "number": "(879) 764-2323",
+                "date": "01-SEP-2016",
+                "hour": "04:10:51 pm",
+                "duration": "00:12:76"
+            }
+        ],
+        "features": {
+            "donotdistrub": true,
+            "callforward": true,
+            "callwaiting": false,
+            "callerblockid": true
         },
-        {
-          "number": "803.612.3361",
-          "duration": "5 sec"
-        },
-        {
-          "number": "514.612.4813",
-          "duration": "3 sec"
-        },
-        {
-          "number": "803.612.3361",
-          "duration": "10 sec"
-        },
-        {
-          "number": "514.612.4813",
-          "duration": "20 sec"
-        },
-    ]
-  ,
-  "calls": [
-    {
-      "number": "(879) 764-2323",
-      "date": "30-OCT-2018",
-      "hour": "04:10:51 pm",
-      "duration": "00:12:76"
-    },
-    {
-      "number": "(879) 764-2323",
-      "date": "29-OCT-2018",
-      "hour": "04:10:51 pm",
-      "duration": "00:12:76"
-    },
-    {
-      "number": "(879) 764-2323",
-      "date": "16-MAY-2016",
-      "hour": "04:10:51 pm",
-      "duration": "00:12:76"
-    },
-    {
-      "number": "(879) 764-2323",
-      "date": "16-JUN-2016",
-      "hour": "04:10:51 pm",
-      "duration": "00:12:76"
-    },
-    {
-      "number": "(879) 764-2323",
-      "date": "01-SEP-2016",
-      "hour": "04:10:51 pm",
-      "duration": "00:12:76"
+        "statements": [
+            {
+                "date": "October 2018"
+            },
+            {
+                "date": "September 2018"
+            },
+            {
+                "date": "August 2018"
+            },
+            {
+                "date": "July 2018"
+            }
+        ]
     }
-    
-  ],
-  "features" : {
-    "donotdistrub": true,
-    "callforward": true,
-    "callwaiting": false,
-    "callerblockid": true
-  },
-  "statements":  [
-   { 
-    "date": "October 2018"
-   },
-   { 
-    "date": "September 2018"
-   },
-   { 
-    "date": "August 2018"
-   },
-   { 
-    "date": "July 2018"
-   }
-   
-  ]
-  }
 }
