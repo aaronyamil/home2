@@ -8,7 +8,7 @@
                 "Mbox": 0,
                 "Received": "2018-06-14T12:43:00",
                 "From": "789.633.3452",
-                "Duration": "0:54",
+                "Duration": "0:03",
                 "Path": "pathToVoicemail"
             },
             {
@@ -18,7 +18,7 @@
                 "Mbox": 0,
                 "Received": "2018-06-27T18:23:00",
                 "From": "789.633.7811",
-                "Duration": "0:04",
+                "Duration": "0:03",
                 "Path": "pathToVoicemail"
             },
             {
@@ -28,7 +28,7 @@
                 "Mbox": 0,
                 "Received": "2018-06-27T18:23:00",
                 "From": "602.633.7897",
-                "Duration": "0:28",
+                "Duration": "0:03",
                 "Path": "pathToVoicemail"
             },
             {
@@ -38,7 +38,7 @@
                 "Mbox": 0,
                 "Received": "2018-06-27T18:23:00",
                 "From": "789.633.7811",
-                "Duration": "1:24",
+                "Duration": "0:03",
                 "Path": "pathToVoicemail"
             },
             {
@@ -48,7 +48,7 @@
                 "Mbox": 0,
                 "Received": "2018-06-27T18:23:00",
                 "From": "789.633.7811",
-                "Duration": "1:24",
+                "Duration": "0:03",
                 "Path": "pathToVoicemail"
             }
         ],
